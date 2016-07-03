@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GenoraPreparation</string>
+    <string name="text_login">Login Here</string>
+    <string name="string_register"><u>Register Here</u></string>
+    <string name="label_register">Register Here</string>
+    <string name="link_login"><u>Login Here</u></string>
+</resources>
